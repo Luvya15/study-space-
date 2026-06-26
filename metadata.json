@@ -1,0 +1,6 @@
+{
+  "name": "StudySpace",
+  "description": "A beautiful vintage academic styled study app with shared virtual rooms, ambient sound mixers, local session logs, and Pomodoro timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
